@@ -1,0 +1,70 @@
+@media only screen and (min-width: 960px) {
+    .navbar .navbar-nav .nav-item .nav-link {
+        padding: 0 2em;
+    }
+    .navbar .navbar-nav .nav-item:not(:last-child) .nav-link {
+        border-right: 1px solid #fcf6c5;
+    }
+}
+
+
+#another{
+    border-top:1px solid #fcf6c5;
+}
+
+.carousel-item{
+    width:100%;
+    max-height:700px;
+    position: relative;
+}
+
+#textCarousel{
+    color: #990000;
+    font-size:.5vw;
+    position:absolute; left: 60%; top: 20%;
+}
+
+
+#textCarousel>p{
+    color : white;
+    width:65%;
+    font-size: 1.5vw;
+}
+
+#textCarousel2{
+    color: #990000;
+    font-size:.5vw;
+    position:absolute; left: 10%; top: 10%;
+}
+
+#textCarousel2>p{
+    color : white;
+    width:30%;
+    font-size: 1.5vw;
+}
+
+#textCarousel3{
+    color: #990000;
+    font-size:.5vw;
+    position:absolute; left: 65%; top: 10%;
+}
+
+#textCarousel3>p{
+    color : white;
+    width:60%;
+    font-size: 1.5vw;
+}
+
+#cusPC{
+    text-align: center;
+    color:#fcf6c5;
+    padding-top:75px;
+}
+
+#per{
+    text-align: center;
+    color:#0a0a0a;
+    padding-top:75px;
+
+}
+
